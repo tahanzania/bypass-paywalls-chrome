@@ -56,6 +56,7 @@ const allowCookies = [
   'nzz.ch',
   'handelsblatt.com',
   'thehindu.com'
+  'financialpost.com'
 ];
 
 // Removes cookies after page load
