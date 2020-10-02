@@ -145,5 +145,4 @@ const defaultSites = {
   'Wired': 'wired.com',
   'World Politics Review': 'worldpoliticsreview.com',
   '*General Paywall Bypass*': 'generalpaywallbypass'
-  
 };
