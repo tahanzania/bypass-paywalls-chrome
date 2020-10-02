@@ -237,7 +237,6 @@
     "*://*.startribune.com/*",
     "*://*.df.cl/*"
     "*://*.financialpost.com/*"
-    
   ],
   "version": "1.7.6"
 }
