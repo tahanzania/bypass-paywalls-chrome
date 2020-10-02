@@ -55,7 +55,7 @@
     "*://*.volkskrant.nl/*",
     "*://*.washingtonpost.com/*",
     "*://*.wsj.com/*",
-    "*://*.hbr.org/*"
+    "*://*.hbr.org/*",
     "*://*.financialpost.com/*"
     ],
       "js": ["src/js/contentScript.js"]
